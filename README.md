@@ -1,2 +1,2 @@
 # Contracts
-Smart Contracts for Smart Ecosystem
+Smart Contracts for Smart Ecosystems
